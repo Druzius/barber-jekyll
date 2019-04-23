@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Coloring Book"
-date: 2017-10-22
+title: "Hofplein by Night"
+date: 2019-03-01
 description:
 image: /assets/images/hofplein.jpg
-author: Thomas Vaeth
 tags:
-  - Squid
-  - Moon Drinking
-  - Kale
+  - Rotterdam
+  - Colors
+
 ---
 Cred artisan post-ironic ramps chillwave. Cornhole letterpress beard literally master cleanse godard selvage blog tattooed actually vexillologist. Fingerstache tousled DIY +1.
 
@@ -16,7 +15,7 @@ YOLO cold-pressed cred activated charcoal pabst hexagon VHS cornhole brunch, tbh
 
 Hammock whatever paleo, crucifix affogato vice actually vape dreamcatcher franzen fixie hella tofu everyday carry. Keytar gluten-free VHS, wolf scenester swag roof party listicle. Bespoke pabst VHS prism, raclette neutra normcore brunch slow-carb tote bag artisan. Organic DIY venmo, af next level plaid fashion axe 90's activated charcoal.
 
-![Placeholder](/assets/images/placeholder-30.jpg#full)
+![Placeholder](/assets/images/placeholder-30.jpg)
 
 Ramps master cleanse normcore affogato selvage, squid readymade craft beer listicle. Deep v coloring book four dollar toast, quinoa brooklyn echo park sartorial ethical irony keytar health goth activated charcoal yuccie af. Before they sold out pug humblebrag lomo, banjo food truck cray.
 

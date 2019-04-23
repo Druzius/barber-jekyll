@@ -1,44 +1,44 @@
 # Site/SEO settings
-email: okay@samesies.io
+email:
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
-name: Thomas Vaeth
+name: Tommy Worung
 title: Studio 010
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
-default_img: /assets/images/seo.jpg
+  Studio 010 is a photo blog made by Tommy Worung.
+url:
+twitter_username:
+default_img: /assets/images/cats.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url:
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/tommy.ill.figure/
   - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url:
   - name: github
-    url: https://github.com/samesies
+    url:
   - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url:
 
 # Contact settings
 contact_img: /assets/images/cats.jpg
-formcarry: https://formcarry.com/s/HkIo0nMb7
+# formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
 disqus: test-apkdzgmqhj
 
 # MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+# mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
+# mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Tommy Worung
+    bio:
+    url:
 
 # Pagination settings
 pagination:
@@ -77,7 +77,6 @@ compress_html:
 exclude:
   - node_modules
   - .DS_Store
-  - barber.jpg
   - Gemfile
   - Gemfile.lock
   - gulpfile.js

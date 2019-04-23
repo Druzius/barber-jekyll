@@ -70,7 +70,7 @@ gulp.task('zip', () => {
     '!./node_modules/**'
   ])
   .pipe(zip('barber-jekyll.zip'))
-  .pipe(gulp.dest('../'))
+  .pipe(gulp.dest('../'));
 });
 
 gulp.task('build', ['sass', 'browserify']);

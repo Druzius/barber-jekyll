@@ -14,8 +14,8 @@
   }
 
   &__date {
-    @extend %font-header;
-
+    // @extend %font-header;
+    font-family: $font;
     display: block;
     margin-top: 0.25em;
 

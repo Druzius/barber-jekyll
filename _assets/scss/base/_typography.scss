@@ -2,7 +2,7 @@
 // Base typography
 //----------------------------------------------
 body {
-  font-family: $font-two;
+  font-family: $font;
   line-height: $base-lineheight;
   color: $color-black;
   background-color: $color-white;
@@ -110,7 +110,7 @@ cite {
 
   display: block;
 
-  font-family: $font-two;
+  font-family: $font;
   font-size: $font-xxxsmall;
   font-style: normal;
   color: $color-black;

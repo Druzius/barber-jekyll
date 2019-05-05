@@ -4,10 +4,9 @@ title: "Flannel Distillery Asymmetrical"
 date: 2017-10-21
 description:
 image: /assets/images/glasses.jpg
-author: Thomas Vaeth
+author: Tommy Worung
 tags:
   - Rotterdam
-  - Kale
 ---
 Church-key XOXO try-hard, schlitz kickstarter meh marfa sustainable yuccie you probably haven't heard of them. Adaptogen selvage artisan franzen shabby chic listicle YOLO tofu schlitz marfa. Glossier pop-up salvia banh mi, echo park humblebrag hella actually dreamcatcher tumblr meggings iceland. Fanny pack chambray pinterest adaptogen salvia.
 

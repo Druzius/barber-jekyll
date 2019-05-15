@@ -12,15 +12,15 @@ url:
 twitter_username:
 default_img: /assets/images/cats.jpg
 social:
-  - name: twitter
+  - name: facebook
     url:
   - name: instagram
     url: https://www.instagram.com/tommy.ill.figure/
   - name: linkedin
     url:
-  - name: github
+  - name: twitter
     url:
-  - name: codepen
+  - name:
     url:
 
 # Contact settings
